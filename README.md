@@ -67,7 +67,7 @@ PowerCo is a leading utility provider facing increasing customer churn in a comp
 
 ## 📄 Executive Summary
 
-A one-page executive summary outlining key business insights and model findings is included in this repository: `executive_summary.pdf`.
+A one-page executive summary outlining key business insights and model findings is included in this repository: `executive_summary_answer.pdf`.
 
 ---
 
@@ -82,7 +82,7 @@ A one-page executive summary outlining key business insights and model findings 
 If you have any questions or want to collaborate, feel free to reach out:
 
 - 📧 Email: abhishekdave331@gmail.com  
-- 💼 LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/abhishek-dave-/])
+- 💼 LinkedIn: https://www.linkedin.com/in/abhishek-dave-/
 
 ---
 
