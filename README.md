@@ -82,7 +82,7 @@ A one-page executive summary outlining key business insights and model findings 
 If you have any questions or want to collaborate, feel free to reach out:
 
 - 📧 Email: abhishekdave331@gmail.com  
-- 💼 LinkedIn: [Your LinkedIn Profile]((https://www.linkedin.com/in/abhishek-dave-/))
+- 💼 LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/abhishek-dave-/])
 
 ---
 
